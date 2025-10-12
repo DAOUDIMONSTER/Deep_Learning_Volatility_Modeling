@@ -6,7 +6,7 @@ Ce dépôt contient un notebook Jupyter (`PRRE.ipynb`) implémentant une approch
 
 Le notebook entraîne des réseaux de neurones artificiels (ANN) pour prédire la volatilité implicite à partir de données de marché d’options, en utilisant des caractéristiques comme le moneyness ($S/K$), le temps à maturité ($\tau$) et les paramètres du processus stochastique. Il reproduit la méthodologie du papier (génération de données, entraînement et évaluation) et l’enrichit avec des visualisations supplémentaires.
 
-Ce projet a été réalisé dans le cadre du module Deep Learning & Financial Modeling du semestre 4 à l’ENSIIE (École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise) par DAOUDI ALI. L’implémentation repose sur TensorFlow (avec accélération GPU), Python (pandas, seaborn, etc.) et Docker pour garantir un environnement reproductible.
+Ce projet a été réalisé dans le cadre du module Deep Learning & Financial Modeling du semestre 4 à l’ENSIIE (École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise) par DAOUDI ALI && YASSINE BENTAYFORE. L’implémentation repose sur TensorFlow (avec accélération GPU), Python (pandas, seaborn, etc.) et Docker pour garantir un environnement reproductible.
 
 ---
 
