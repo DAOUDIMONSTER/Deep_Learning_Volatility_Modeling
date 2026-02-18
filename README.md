@@ -61,11 +61,10 @@ Pour exécuter le notebook, vous avez besoin de :
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/DAOUDIMONSTER/Deep_learning_volatility_Modeling.git
+cd Deep_learning_volatility_Modeling 
 ```
 
-Replace `your-username` and `your-repo-name` with your GitHub details.
 
 ### 2. Build the Docker Image
 The notebook runs in a custom Docker image (`grok-prre-gpu`) based on `tensorflow:2.15.0-gpu-jupyter`.
